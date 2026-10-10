@@ -15,7 +15,7 @@ I am an Electrical and Electronic Engineering graduate from Bangladesh Universit
 - Digital Logic Architecture
 - Design Verification
 - FPGA-Based Hardware Design
-- Hardware Security
+- Hardware Security, including quantum-secure authentication
 
 ## VLSI and Circuit Design Projects
 
