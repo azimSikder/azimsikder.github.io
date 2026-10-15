@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET), where I completed my B.Sc. in June 2026 with a CGPA of 3.89. My interests are in digital VLSI design, RTL design and verification, and digital logic architecture. I have taken designs through the complete flow from RTL to physical layout in Cadence, and I am seeking a PhD position in VLSI and electronic design starting Fall 2027.
+I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET), where I completed my B.Sc. in June 2026 with a CGPA of 3.89. My interests are in digital VLSI design, RTL design and verification, and digital logic architecture. I have worked across the digital design flow, from RTL design and verification to synthesis, and I am seeking a PhD position in VLSI and electronic design starting Fall 2027.
 
 ## Research Interests
 
@@ -17,38 +17,34 @@ I am an Electrical and Electronic Engineering graduate from Bangladesh Universit
 - FPGA-Based Hardware Design
 - Hardware Security, including quantum-secure authentication
 
+My undergraduate thesis and conference papers are on the [Research](/research/) page.
+
 ## VLSI and Circuit Design Projects
 
-**Adaptive SPI Communication Interface — Full VLSI Flow**  
-*Cadence, SystemVerilog*  
-Designed an SPI master/slave interface and took it through RTL design, functional verification, logic synthesis, and physical layout, achieving timing closure and DRC/LVS compliance.
+**Adaptive SPI Communication Interface: RTL to GDS**  
+*Verilog, SystemVerilog, Cadence*  
+Team project: designed an SPI interface with master, slave, and 256 × 32 memory modules in Verilog, verified it with a constrained-random SystemVerilog testbench reaching 100% functional coverage, and took it from RTL to GDS at 100 MHz.
 
-**Microcontroller-Free Digital Logic Architecture for Smart Toll Collection**  
+**Microcontroller-Free Smart Toll Collection System**  
 *Digital Logic Design*  
-Built a complete toll collection system using only digital logic, without a microcontroller. Submitted to ICECE 2026.
+Built a complete toll collection system using only digital logic, without a microcontroller. Under review at ICECE 2026.
 
 **Class-A Common-Emitter RF Power Amplifier (433 MHz ISM Band)**  
 *Cadence Virtuoso*  
-Designed biasing and matching networks for stability (K > 1) and characterized S-parameters, P1dB, and PAE.
+Designed biasing and L-C matching networks in gpdk090, achieving 14.14 dB gain, 20.21 dBm saturated output power, and 5.375% peak PAE at 433 MHz.
+
+Details and figures are on the [Projects](/portfolio/) page.
+
+## Other Projects
+
+- **Machine Learning:** Hand-gesture recognition using a MEMS accelerometer (MPU6050), with time-domain feature extraction and k-nearest-neighbor classification.
+- **Embedded Systems:** Smart alert system for natural hazards with real-time P-wave detection for seismic early warning; MopBot autonomous cleaning robot.
+- **Power Electronics:** Arduino-controlled MPPT seven-level inverter for solar power generation (under review at ICECE 2026).
 
 ## Industry Training
 
 **VLSI Industry Attachment Program**, Siliconova — November 2025  
 Hands-on training across the chip design flow: RTL design, Verilog HDL, SystemVerilog, verification, DFT, ATPG, physical design, analog layout, DRC/LVS, and IC packaging in the Cadence environment.
-
-## Conference Papers (Under Review)
-
-1. **M. A. Sikder** et al., "A Microcontroller-Free Digital Logic Architecture for Smart Toll Collection Systems," submitted to the 14th International Conference on Electrical and Computer Engineering (ICECE 2026), Dhaka, Bangladesh.
-2. **M. A. Sikder** et al., "An Arduino-Controlled MPPT Seven-Level Inverter for Solar Power Generation," submitted to the 14th International Conference on Electrical and Computer Engineering (ICECE 2026), Dhaka, Bangladesh.
-
-## Undergraduate Thesis
-
-**Quantum Token for Anti-Counterfeit Systems**  
-Supervisor: Dr. Sajid Muhaimin Choudhury, Professor, Department of EEE, BUET  
-April 2025 – June 2026
-
-- Designed a hybrid quantum-classical authentication scheme combining BB84 encoding with Learning With Errors (LWE). At 1,500 qubits, the scheme achieved a 100% valid-user acceptance rate and a 0% adversary success rate, compared with the ~4.2 × 10⁶ qubits required by pure quantum tokens.
-- Implemented and benchmarked on the 156-qubit IBM Fez (Heron r2) processor via Qiskit Runtime, with an adaptive verification algorithm that separates hardware noise from tampering.
 
 ## Technical Skills
 
