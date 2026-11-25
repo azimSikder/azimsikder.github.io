@@ -7,17 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET), where I completed my B.Sc. in June 2026 with a CGPA of 3.89. My interests are in digital VLSI design, RTL design and verification, and digital logic architecture. I have worked across the digital design flow, from RTL design and verification to synthesis, and I am seeking a PhD position in VLSI and electronic design starting Fall 2027.
+I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET), where I completed my B.Sc. in June 2026 with a CGPA of 3.89. My interests are in digital VLSI design, RTL design and verification, digital logic architecture , and hardware design automation. I have worked across the digital design flow, from RTL design and verification to synthesis in Cadence environment, and I am seeking a PhD position in VLSI and electronic design starting Fall 2027.
 
 ## Research Interests
 
 - Digital VLSI and RTL Design
 - Digital Logic Architecture
+- Quantum Circuit Design and Architecture
 - Design Verification
 - FPGA-Based Hardware Design
 - Hardware Security, including quantum-secure authentication
+- Hardware Design and Verification Automation
 
-My undergraduate thesis and conference papers are on the [Research](/research/) page.
+My undergraduate thesis are on the [Research](/research/) page.
 
 ## VLSI and Circuit Design Projects
 
@@ -53,7 +55,7 @@ Hands-on training across the chip design flow: RTL design, Verilog HDL, SystemVe
 **Hardware:** FPGA, STM32, Arduino, ESP32
 
 ## Teaching and Mentoring
-
+**Lecturer (Part-time)**, Dept. of EEE, Daffodil International University (DIU) — Nov 2026– Present
 **Independent Tutor** — 2022 – Present  
 Taught undergraduate Electrical Engineering, Mathematics, and Physics to students from Stony Brook University (USA) and the University of Auckland (New Zealand).
 
